@@ -1,0 +1,7 @@
+2
+prod1 234
+prod2 122
+3
+prod65 45
+prod23 23
+prod75 67
